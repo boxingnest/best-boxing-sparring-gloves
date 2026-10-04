@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://best-boxing-sparring-gloves.vercel.app/sitemap.xml
